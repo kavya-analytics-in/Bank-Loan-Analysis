@@ -68,3 +68,7 @@ The Power BI dashboard includes:
 **Kavya Dandigi**
 
 BSc Statistics |  Data Analytics
+
+## Dashboard Preview
+
+![Bank Loan Analysis Dashboard](Bank_Loan_Dashboard.png)
