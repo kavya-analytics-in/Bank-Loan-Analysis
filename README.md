@@ -71,4 +71,4 @@ BSc Statistics |  Data Analytics
 
 ## Dashboard Preview
 
-![Bank Loan Analysis Dashboard](Bank_Loan_Dashboard.png)
+![Bank Loan Analysis Dashboard](BLA_Dashboard%20Screenshot.png)
